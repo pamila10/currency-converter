@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'normalize.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+  background-color: #b0c4de3b;
+}
